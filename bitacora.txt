@@ -1,0 +1,10 @@
+4/11/26
+construcción de scrpyts y manejo base de datos
+estracción de información
+rectificacion de pk
+estado de semáforos 
+
+6/11/26
+scrypt distancias 
+entrega información
+fin de proyecto (se termino la entrega de datos, plt, el 7/11/26  0:46)

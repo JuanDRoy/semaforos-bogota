@@ -1,0 +1,29 @@
+--- Total de semaforos = 1747u ---
+
+                 (Cantidad)  porcentual
+OPERACIONACTUAL                        
+NORMAL                 1462      83.686
+PMT                     258      14.768
+Desvío - PMT             27       1.546
+--------------------------------------------------------
+       variable       categoria  cantidad  porcentual
+ FUNCIONAMIENTO           BT-TA       330      18.890
+ FUNCIONAMIENTO           BT-TF       507      29.021
+ FUNCIONAMIENTO           CA-TA       304      17.401
+ FUNCIONAMIENTO           CA-TF        12       0.687
+ FUNCIONAMIENTO            R-TA       105       6.010
+ FUNCIONAMIENTO            R-TF       107       6.125
+ FUNCIONAMIENTO           RP-TA       102       5.839
+ FUNCIONAMIENTO           RP-TF       280      16.027
+ IMPLEMENTACION      DEFINITIVA      1633      93.475
+ IMPLEMENTACION PROVISIONAL_PMT       114       6.525
+OPERACIONACTUAL    Desvío - PMT        27       1.546
+OPERACIONACTUAL          NORMAL      1462      83.686
+OPERACIONACTUAL             PMT       258      14.768
+UBICACIONEQUIPO              NO       331      18.947
+UBICACIONEQUIPO              SI      1416      81.053
+--------------------------------------------------------
+Distancia promedio al semaforo más cercano por vecinos: 193.600m
+Distancia media entre semáforos: 9037.636m ó 9.038km
+Promedio de distancia entre más cercanos: 17.661m ó 0.018km
+Promedio de distancia entre más lejanos: 33939.342m ó 33.939km
