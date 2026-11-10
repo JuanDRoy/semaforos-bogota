@@ -3,11 +3,9 @@
 .venv/
 env/
 
-# Archivos de Python
+# Archivos de Python (solo caché y compilados, NO los scripts)
 __pycache__/
 *.pyc
-*.py
-*.Python
 
 # VS Code
 .vscode/
